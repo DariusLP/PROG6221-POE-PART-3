@@ -1,0 +1,9 @@
+Change Log for PROG6221 POE Final Part.
+
+1. Created the project as a WPF
+2. Pushed the project to GitHub.
+3. Created a Kanban Board on GitHub.
+4. Improved ReadMe file to have information on how to start the project as well as including links to download the applications needed to run the project.
+5. Added exception handling on all methods.
+6. Created Savings method and class that calculates the amount needed to invest for a specified amount of time.
+7. Created a user manual
