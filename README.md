@@ -10,8 +10,8 @@ Final part of the Programming POE
 ***
 ### General Info
 I was tasked to create a budget planner app for a friend. The app takes data that is inputted by the user and does various calculations to see if the user can afford his or her lifestyle. The app was developed by Darius Lynton Paul. The app will ask the user to input various expenses that are usually made by the user on a monthly basis so that it can use these values to do calculations to see if the user is spending more money than they actually have and helps to give the user an overall estimate of what they should do to save money.
-#### Screenshots of the Program
-![image](https://user-images.githubusercontent.com/104988211/176696373-cb234552-9736-46a4-8ec4-81a56c97662d.png)
+#### Screenshot of the Program
+![image](https://user-images.githubusercontent.com/104988211/176706267-6fab0456-14d3-4340-87eb-3c408654b7ca.png)
 ***
 ### Software
 * [Microsoft Visual Studio 2022] (Version no: 17.2)
