@@ -50,7 +50,7 @@ _Please note: Download all the files from the BudgetPlannerV3 folder to make sur
 * Student No: ST10084349
 * Email: dariuslpaul@gmail.com
 * Link to GIT Repository: https://github.com/DariusLP/PROG6221-POE-PART-3.git
-* Link to Kanban board: 
+* Link to Kanban board: https://github.com/DariusLP/PROG6221-POE-PART-3/projects/1
 ***
 ### FAQs
 1. **When asked to input the interest rate, what format must be used?**
