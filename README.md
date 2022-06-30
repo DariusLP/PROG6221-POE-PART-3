@@ -49,7 +49,7 @@ _Please note: Download all the files from the BudgetPlannerV3 folder to make sur
 * Name: Darius Lynton Paul
 * Student No: ST10084349
 * Email: dariuslpaul@gmail.com
-* Link to GIT Repository: 
+* Link to GIT Repository: https://github.com/DariusLP/PROG6221-POE-PART-3.git
 * Link to Kanban board: 
 ***
 ### FAQs
